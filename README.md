@@ -6,21 +6,23 @@
   <img src="./assets/Image.png" alt="Dean Stark — Backend Engineer" width="100%" />
 </p>
 
-<br><br>
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                                 H E R O                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# Dean Stark
+<h2>Dean Stark</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&height=36&lines=Backend+Engineer;Building+Reliable+Systems;Learning+C%23+%26+ASP.NET+Core;Cloud+Engineering;Building+Products+That+Solve+Real+Business+Problems" alt="Backend Engineer" />
+<sub><strong>Backend Engineer &nbsp;·&nbsp; Systems Builder</strong></sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&height=34&lines=Building+Reliable+Systems;Learning+C%23+%26+ASP.NET+Core;Cloud+Engineering;Building+Products+That+Solve+Real+Business+Problems" alt="Dean Stark — Backend Engineer" />
 
 <br>
 
-<code>Building reliable backend systems that businesses depend on.</code>
+<sub><strong>Building reliable systems that solve real business problems.</strong></sub>
 
 <br><br>
 
