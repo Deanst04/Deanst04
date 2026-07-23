@@ -44,3 +44,111 @@ Backend Architecture
 Cloud Deployment
 CI/CD
 Business-Oriented Software Products
+```
+
+---
+
+## Featured Project
+
+### 🔨 Anvil — Event Processing Platform
+
+An event-driven backend platform built to explore reliable processing, background workers, failure recovery, file workflows, and production infrastructure.
+
+**Core capabilities:**
+
+- Event ingestion and lifecycle management
+- Concurrent background workers
+- Retry and stuck-event recovery
+- File processing with object storage
+- PostgreSQL persistence
+- Docker-based infrastructure
+- Production-oriented configuration and deployment
+
+**Technologies:**
+
+`TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Docker` · `MinIO` · `Linux`
+
+> Repository link and architecture documentation coming soon.
+
+---
+
+## Technology Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,prisma" alt="Backend technologies"/>
+</p>
+
+### Infrastructure and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws" alt="Infrastructure tools"/>
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure" alt="Currently learning"/>
+</p>
+
+---
+
+## Engineering Interests
+
+- Backend Engineering
+- Distributed Systems
+- Cloud and Infrastructure
+- System Reliability
+- Software Architecture
+- Developer Tooling
+- Product Engineering
+- Business Process Automation
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=Deanst04&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+  alt="Dean's GitHub statistics"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deanst04&layout=compact&hide_border=true&theme=transparent"
+  alt="Dean's most used languages"
+/>
+
+</div>
+
+---
+
+## Building Toward
+
+I am developing the technical and product skills required to:
+
+- Design and deploy complete backend systems
+- Build software for real businesses and real users
+- Turn operational pain points into practical digital products
+- Work independently across development, infrastructure, and deployment
+- Grow from software developer into a product builder and entrepreneur
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/dean-stark-886403366">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:deanstark09@gmail.com">Email</a>
+
+<br/><br/>
+
+<i>Building reliable systems. Learning continuously. Creating long-term value.</i>
+
+</div>
