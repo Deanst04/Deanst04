@@ -1,154 +1,150 @@
 <div align="center">
 
-# Hi, I'm Dean Stark 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Backend+Engineer;Systems+Builder;Learning+C%23+%26+ASP.NET+Core;Building+Reliable+Software;Creating+Long-Term+Business+Value" />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=Backend-Focused+Software+Developer;Building+Reliable+Systems+and+APIs;Learning+C%23+and+.NET;Turning+Real+Problems+Into+Software"
-  alt="Typing SVG"
-/>
+<br>
 
-<p>
-  Backend-focused developer interested in reliable systems, cloud infrastructure,
-  software architecture, and building products that solve real business problems.
-</p>
+# Dean Stark
 
-<p>
-  <a href="https://www.linkedin.com/in/dean-stark-886403366">
-    <img src="https://img.shields.io/badge/LinkedIn-Dean%20Stark-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:deanstark09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+### Backend Engineer • Systems Builder
+
+> **Building reliable systems that solve real business problems.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/dean-stark-886403366">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:deanstark09@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
+# 👋 About Me
 
-- 🔨 Built **Anvil**, an event-processing backend platform focused on reliability, background workers, recovery mechanisms, and file-processing workflows.
-- 🎓 Currently studying **C# and .NET** through Microsoft’s Back-End Developer Professional Certificate.
-- ☁️ Expanding my knowledge in cloud deployment, infrastructure, CI/CD, and production systems.
-- 🧠 Interested in backend engineering, distributed systems, software architecture, and product development.
-- 🚀 Working toward building software products that solve real operational and business problems.
+I'm a backend-focused software engineer passionate about building **reliable systems**, **production-ready APIs**, and **software that creates real value for businesses**.
 
----
+Rather than chasing frameworks, I focus on understanding **why systems are built the way they are**, how they scale, and how software becomes a real product.
 
-## Current Focus
-
-```text
-C# and .NET
-ASP.NET Core
-Backend Architecture
-Cloud Deployment
-CI/CD
-Business-Oriented Software Products
-```
+I'm currently expanding my engineering skills through Microsoft's **Back-End Developer Professional Certificate**, while building real-world backend systems and preparing to create software products for businesses.
 
 ---
 
-## Featured Project
+# 🚀 Current Mission
 
-### 🔨 Anvil — Event Processing Platform
-
-An event-driven backend platform built to explore reliable processing, background workers, failure recovery, file workflows, and production infrastructure.
-
-**Core capabilities:**
-
-- Event ingestion and lifecycle management
-- Concurrent background workers
-- Retry and stuck-event recovery
-- File processing with object storage
-- PostgreSQL persistence
-- Docker-based infrastructure
-- Production-oriented configuration and deployment
-
-**Technologies:**
-
-`TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Docker` · `MinIO` · `Linux`
-
-> Repository link and architecture documentation coming soon.
+- Master **C# & ASP.NET Core**
+- Build production-ready backend systems
+- Learn modern cloud engineering
+- Create software used by real businesses
+- Grow into a product-focused engineer and entrepreneur
 
 ---
 
-## Technology Stack
+# 🧠 Engineering Philosophy
+
+- Build reliable systems.
+- Learn deeply before moving fast.
+- Solve real business problems.
+- Create software with long-term value.
+
+---
+
+# 🛠 Core Technologies
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,prisma" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,prisma"/>
 </p>
 
-### Infrastructure and Tools
+### Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws" alt="Infrastructure tools"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws"/>
 </p>
 
 ### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure" alt="Currently learning"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure"/>
 </p>
 
 ---
 
-## Engineering Interests
+# 📌 Featured Project
 
-- Backend Engineering
-- Distributed Systems
-- Cloud and Infrastructure
-- System Reliability
-- Software Architecture
-- Developer Tooling
-- Product Engineering
-- Business Process Automation
+## 🔨 Anvil — Event Processing Platform
+
+An event-driven backend platform designed to explore production-oriented backend engineering.
+
+### Highlights
+
+- Event lifecycle management
+- Background workers
+- Failure recovery
+- Retry mechanisms
+- File processing
+- PostgreSQL
+- Docker
+- Production configuration
+
+> Repository coming soon.
 
 ---
 
-## GitHub Activity
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Deanst04&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-  alt="Dean's GitHub statistics"
-/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Deanst04&theme=transparent&hide_border=true"/>
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deanst04&layout=compact&hide_border=true&theme=transparent"
-  alt="Dean's most used languages"
-/>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deanst04&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## Building Toward
+# 🎓 Currently Learning
 
-I am developing the technical and product skills required to:
+- Microsoft Back-End Developer Professional Certificate
+- C#
+- ASP.NET Core
+- Cloud Infrastructure
+- Software Architecture
 
-- Design and deploy complete backend systems
-- Build software for real businesses and real users
-- Turn operational pain points into practical digital products
-- Work independently across development, infrastructure, and deployment
-- Grow from software developer into a product builder and entrepreneur
+---
+
+# 🌍 Looking Forward
+
+My long-term goal is to build software products that solve operational problems for real businesses.
+
+I'm especially interested in:
+
+- Backend Engineering
+- Distributed Systems
+- Cloud
+- Product Engineering
+- Business Automation
+- Software Architecture
 
 ---
 
 <div align="center">
 
-### Let's Connect
+# 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/dean-stark-886403366">LinkedIn</a>
-&nbsp;•&nbsp;
+
 <a href="mailto:deanstark09@gmail.com">Email</a>
 
-<br/><br/>
+<br><br>
 
-<i>Building reliable systems. Learning continuously. Creating long-term value.</i>
+> **Building reliable systems. Learning continuously. Creating long-term value.**
 
 </div>
